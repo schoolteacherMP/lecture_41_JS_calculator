@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html>
   <head>
     <title>Калькулятор</title>
@@ -78,4 +78,4 @@
       }
     </script>
   </body>
-</html>
+</html>`
