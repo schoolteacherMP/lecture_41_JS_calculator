@@ -1,8 +1,8 @@
-`<!DOCTYPE html>
-<html>
-  <head>
-    <title>Калькулятор</title>
-    <style>
+`<!DOCTYPE html>`
+`<html>`
+  `<head>`
+    `<title>Калькулятор</title>`
+   ` <style>
       body {
         font-family: Arial, sans-serif;
         margin: 0;
@@ -33,7 +33,7 @@
       input[type="number"][disabled] {
         background-color: #f8f9fa;
       }
-    </style>
+    </style>`
   </head>
   <body>
     <h1>Калькулятор</h1>
