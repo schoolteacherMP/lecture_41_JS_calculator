@@ -1,4 +1,5 @@
 # lecture_41_JS_calculator  
+
 ![image](https://user-images.githubusercontent.com/113675674/218652216-43807808-58aa-45f6-a2a8-94b7ffb90a94.png)  
 
 ## Описание  
